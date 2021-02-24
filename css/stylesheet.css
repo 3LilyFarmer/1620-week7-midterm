@@ -31,6 +31,7 @@ main {
 .left{
     display: flex;
     justify-content: left;
+    margin: .5em;
 }
 
 .breakfast li {
