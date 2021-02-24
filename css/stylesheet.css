@@ -47,6 +47,7 @@ nav ul {
     display: inline-block;
     z-index: 100;
     right: 33%;
+    top: 7%;
 }
 nav ul li {
     display: inline-block;
